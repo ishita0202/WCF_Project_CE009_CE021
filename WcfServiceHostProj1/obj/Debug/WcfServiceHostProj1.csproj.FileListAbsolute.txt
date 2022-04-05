@@ -26,3 +26,17 @@ C:\Users\123\source\repos\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.cspr
 C:\Users\123\source\repos\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csproj.CopyComplete
 C:\Users\123\source\repos\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.exe
 C:\Users\123\source\repos\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.pdb
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\bin\Debug\WcfServiceHostProj1.exe.config
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\bin\Debug\WcfServiceHostProj1.exe
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\bin\Debug\WcfServiceHostProj1.pdb
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\bin\Debug\WcfServiceLibraryProj1.dll
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\bin\Debug\WcfServiceLibraryProj1.pdb
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\bin\Debug\WcfServiceLibraryProj1.dll.config
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csproj.AssemblyReference.cache
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.Form1.resources
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.Properties.Resources.resources
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csproj.GenerateResource.cache
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csproj.CoreCompileInputs.cache
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.csproj.CopyComplete
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.exe
+E:\soc_project\WCF_Project_CE009_CE021\WcfServiceHostProj1\obj\Debug\WcfServiceHostProj1.pdb
